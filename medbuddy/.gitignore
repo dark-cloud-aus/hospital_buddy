@@ -1,0 +1,17 @@
+# Xcode
+.DS_Store
+xcuserdata/
+*.xcworkspace/
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Environment files
+.env
+Config.swift
+
+# Other
+*.log
+.DS_Store 

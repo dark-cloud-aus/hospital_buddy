@@ -1,0 +1,3 @@
+struct Config {
+    static let openAIKey = "YOUR_OPENAI_API_KEY_HERE"
+} 
