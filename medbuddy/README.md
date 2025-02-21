@@ -1,6 +1,6 @@
 # MedBuddy
 
-A Swift-based iOS application that records audio conversations and uses OpenAI's Whisper and GPT-4 to transcribe and summarize medical conversations.
+A Swift-based iOS application that records audio conversations between Doctors and patients and uses OpenAI's Whisper and GPT-4 to transcribe and summarize medical conversations so that the patient has a summarised record of their treatment and diagnosis.
 
 ## Features
 - Audio recording
@@ -19,4 +19,4 @@ A Swift-based iOS application that records audio conversations and uses OpenAI's
 - OpenAI API key
 
 ## Note for Code Review
-This project was developed as part of [Your Course Name] at [Your University]. 
+This project was developed as part of MedHack 2025 by David Gilmore, Team: CodeBlue
